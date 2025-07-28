@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Brian Fottrell
 Data Analyst | SQL Enthusiast | Lifelong Learner | Navy Veteran
 
